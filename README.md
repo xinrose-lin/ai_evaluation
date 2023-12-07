@@ -1,2 +1,5 @@
-# explainable_ai
+# ai-evaluation
 explorations 
+
+papers to read: 
+- 
